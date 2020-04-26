@@ -1,8 +1,8 @@
 # Project Title
-Virtual Keyboard
+Simple Calculator
 
 # Instructions
-You can access the app here: https://virtual-keyboard.now.sh/
+You can access the app here: https://simple-calculator-in-react.now.sh/
 
 Alternatively, to run this programme on your local machine you can clone the repo then type:
 
